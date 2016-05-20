@@ -1,0 +1,3 @@
+[submodule "libticker"]
+	path = libticker
+	url = https://github.com/lonedawg/libticker.git
