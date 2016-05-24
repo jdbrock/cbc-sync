@@ -84,7 +84,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TickerTools.Common\TickerTools.Common.csproj">
+    <ProjectReference Include="..\libticker\TickerTools.Common\TickerTools.Common.csproj">
       <Project>{1bbaa45d-3f11-43fd-8f10-41d55f975dce}</Project>
       <Name>TickerTools.Common</Name>
     </ProjectReference>
