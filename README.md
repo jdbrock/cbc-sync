@@ -1,4 +1,4 @@
-# cbc-sync
+# Copenhagen Beer Celebration - Sync Tools
 
 Tools for converting, synchronising and publishing beer lists for Copenhagen Beer Celebration 2016. Built using .NET.
 
